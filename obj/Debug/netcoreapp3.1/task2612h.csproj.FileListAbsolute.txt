@@ -1,0 +1,14 @@
+/Users/nergiznadirli/Projects/task2612h/task2612h/obj/Debug/netcoreapp3.1/task2612h.csproj.AssemblyReference.cache
+/Users/nergiznadirli/Projects/task2612h/task2612h/obj/Debug/netcoreapp3.1/task2612h.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nergiznadirli/Projects/task2612h/task2612h/obj/Debug/netcoreapp3.1/task2612h.AssemblyInfoInputs.cache
+/Users/nergiznadirli/Projects/task2612h/task2612h/obj/Debug/netcoreapp3.1/task2612h.AssemblyInfo.cs
+/Users/nergiznadirli/Projects/task2612h/task2612h/obj/Debug/netcoreapp3.1/task2612h.csproj.CoreCompileInputs.cache
+/Users/nergiznadirli/Projects/task2612h/task2612h/bin/Debug/netcoreapp3.1/task2612h
+/Users/nergiznadirli/Projects/task2612h/task2612h/bin/Debug/netcoreapp3.1/task2612h.deps.json
+/Users/nergiznadirli/Projects/task2612h/task2612h/bin/Debug/netcoreapp3.1/task2612h.runtimeconfig.json
+/Users/nergiznadirli/Projects/task2612h/task2612h/bin/Debug/netcoreapp3.1/task2612h.runtimeconfig.dev.json
+/Users/nergiznadirli/Projects/task2612h/task2612h/bin/Debug/netcoreapp3.1/task2612h.dll
+/Users/nergiznadirli/Projects/task2612h/task2612h/bin/Debug/netcoreapp3.1/task2612h.pdb
+/Users/nergiznadirli/Projects/task2612h/task2612h/obj/Debug/netcoreapp3.1/task2612h.dll
+/Users/nergiznadirli/Projects/task2612h/task2612h/obj/Debug/netcoreapp3.1/task2612h.pdb
+/Users/nergiznadirli/Projects/task2612h/task2612h/obj/Debug/netcoreapp3.1/task2612h.genruntimeconfig.cache
